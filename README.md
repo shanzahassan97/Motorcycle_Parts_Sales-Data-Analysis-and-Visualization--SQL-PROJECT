@@ -46,15 +46,8 @@ To explore this project, follow these steps:
 3. **Load the Dataset**: Import the dataset into your SQL environment.
 4. **Run the Queries**: Execute the provided SQL scripts to perform the analysis.
 
-## 📊 Example Visualizations
-Here are a few examples of the visualizations generated from the analysis:
-![image](https://github.com/user-attachments/assets/8b8f7881-49f9-4530-a677-153217944d8d)
-
-
-
-
-![image](https://github.com/user-attachments/assets/5e7dc6c8-476b-4ddf-9f2c-d262190644db)                                    ![image](https://github.com/user-attachments/assets/f2aefd24-06dc-44fd-979d-c3f7270d008c)
-
+## 📊 PowerBI Dashboard Visualizations
+![image](https://github.com/user-attachments/assets/f575f08d-43fa-404f-af2e-7e553ccfeffe)
 
 
 
