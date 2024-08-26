@@ -1,7 +1,7 @@
 # Motorcycle Parts Sales Data Analysis and Visualization - SQL Project
 
 ## 📊 About the Project
-This project delves into the sales data of a company specializing in motorcycle parts. By focusing on wholesale sales across three key warehouse locations, we aim to uncover insights into the company's revenue streams. Our goal is to determine the net revenue generated each month for various product lines at each warehouse, providing a clear view of sales performance and profitability.
+This project delves into the sales data of a company specializing in motorcycle parts. By focusing on wholesale sales across three key warehouse locations, aim to uncover insights into the company's revenue streams. THe goal is to determine the net revenue generated each month for various product lines at each warehouse, providing a clear view of sales performance and profitability.
 
 ## 🎯 Project Purpose
 The primary objective of this project is to empower the company with a deeper understanding of its revenue streams. By meticulously analyzing sales performance across different product lines and warehouse locations, we can:
